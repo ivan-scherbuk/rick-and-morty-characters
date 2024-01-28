@@ -1,0 +1,11 @@
+@import '../../../constants';
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.label {
+    color: $gray-color;
+}

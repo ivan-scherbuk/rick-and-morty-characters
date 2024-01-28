@@ -1,0 +1,9 @@
+// width sizes
+$mobileLargeWidth: 720px;
+
+// colors
+$gray-color: grey;
+
+:export {
+    mobileLargeWidth: $mobileLargeWidth;
+}
